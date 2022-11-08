@@ -10,7 +10,7 @@
 
 ### Contact me with:
 #### Discord!
-https://discord.gg/V7wJnSG7u5
+https://discord.gg/jcFgwrQAhS
 
 ### Skills I have:
 - 👉 Python
